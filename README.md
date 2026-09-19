@@ -23,13 +23,11 @@
 
 ---
 
-### 🚀 About Me
+### About
 
-- 🔭 **Currently focusing on:** Modern full-stack web applications and cross-platform mobile solutions.
-- 💡 **Specialties:** React, React Native, Expo, TypeScript, Node.js, Express, Prisma & PostgreSQL.
-- 🎨 **Passion:** Clean code architecture, fluid UI/UX interactions, and robust engineering.
-- 🌱 **Continuously exploring:** Cloud architectures, performance tuning, and scalable distributed systems.
-- 💬 **Ask me about:** TypeScript, React Native, RESTful APIs, and state management patterns.
+- Developing full-stack web applications and cross-platform mobile solutions.
+- Focused on clean architecture, responsive UI, and scalable backend services.
+- Interested in offline-first architectures, performance optimization, and developer tooling.
 
 ---
 
