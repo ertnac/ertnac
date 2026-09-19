@@ -17,6 +17,10 @@
     <a href="https://github.com/ertnac">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;
+    <a href="https://www.chess.com/member/ertnac">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=81b64c&label=Chess.com&query=chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fertnac%2Fstats&logo=chess.com&logoColor=white" alt="Chess.com" />
+    </a>
   </p>
 
 </div>
@@ -68,6 +72,24 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+---
+
+### ♟️ Chess.com Ratings
+
+<p align="left">
+  <a href="https://www.chess.com/member/ertnac">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=81b64c&label=Rapid&query=chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fertnac%2Fstats&logo=chess.com&logoColor=white" alt="Rapid" />
+  </a>
+  &nbsp;
+  <a href="https://www.chess.com/member/ertnac">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=81b64c&label=Blitz&query=chess_blitz.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fertnac%2Fstats&logo=chess.com&logoColor=white" alt="Blitz" />
+  </a>
+  &nbsp;
+  <a href="https://www.chess.com/member/ertnac">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=81b64c&label=Bullet&query=chess_bullet.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fertnac%2Fstats&logo=chess.com&logoColor=white" alt="Bullet" />
+  </a>
 </p>
 
 ---
