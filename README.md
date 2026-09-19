@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### 💻 Languages & Frameworks
 <p align="left">
@@ -45,14 +45,14 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-#### 🎨 Styling & UI
+#### Styling & UI
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-#### 🗄️ Databases & State Management
+#### Databases & State Management
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
 </p>
 
-#### ⚙️ DevOps & Tooling
+#### DevOps & Tooling
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
@@ -72,7 +72,7 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### GitHub Activity & Statistics
 
 <div align="center">
   <a href="https://github.com/ertnac">
@@ -90,5 +90,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ <i>"Stay curious, keep shipping, and build things that matter."</i></sub>
+  <sub><i>"Stay curious, keep shipping, and build things that matter."</i></sub>
 </div>
