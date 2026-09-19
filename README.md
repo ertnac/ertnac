@@ -2,7 +2,7 @@
 
   <!-- Header Typing SVG / Banner -->
   <a href="https://github.com/ertnac">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+ertnac;Full-Stack+%26+Mobile+Developer;Crafting+Modern+Web+%26+Mobile+Apps;Always+Building+%26+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B+I'm+ertnac;Full-Stack+%26+Mobile+Developer;Crafting+Modern+Web+%26+Mobile+Apps;Always+Building+%26+Learning..." alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -11,10 +11,11 @@
 
   <p align="center">
     <a href="mailto:ertnac@users.noreply.github.com">
-      <img src="https://img.shields.io/badge/Email-ertnac-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
+    &nbsp;
     <a href="https://github.com/ertnac">
-      <img src="https://img.shields.io/badge/GitHub-ertnac-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -24,11 +25,11 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently building:** **[Saulado](https://github.com/ertnac/saulado)** — a modern full-stack web and cross-platform mobile ecosystem.
-- 💡 **Specialties:** React, React Native (Expo), TypeScript, Node.js, Express, Prisma & PostgreSQL.
-- 🎨 **Passion:** Clean code architecture, fluid UI/UX interactions, and offline-first mobile apps.
-- 🌱 **Continuously exploring:** Cloud architectures, performance tuning, and cross-platform capabilities.
-- 💬 **Ask me about:** TypeScript monorepos, React Native, RESTful APIs, and state management.
+- 🔭 **Currently focusing on:** Modern full-stack web applications and cross-platform mobile solutions.
+- 💡 **Specialties:** React, React Native, Expo, TypeScript, Node.js, Express, Prisma & PostgreSQL.
+- 🎨 **Passion:** Clean code architecture, fluid UI/UX interactions, and robust engineering.
+- 🌱 **Continuously exploring:** Cloud architectures, performance tuning, and scalable distributed systems.
+- 💬 **Ask me about:** TypeScript, React Native, RESTful APIs, and state management patterns.
 
 ---
 
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -87,14 +88,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ertnac&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 📱 **[Saulado](https://github.com/ertnac/saulado)** | Full-stack & mobile productivity suite with cloud sync, offline support, and smooth multi-platform experience. | React, React Native, Expo, Node.js, Prisma, Tailwind |
 
 ---
 
